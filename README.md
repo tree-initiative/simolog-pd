@@ -12,7 +12,7 @@ O software resolve de forma ótima o problema de Programação Linear Inteira (P
 ## 🚀 Demonstração Online
 
 A aplicação está publicada e disponível para execução imediata através do GitHub Pages.  
-🔗 **Acesse o simulador aqui:** `https://<seu-usuario>.github.io/<nome-do-repositorio>/`
+🔗 **Acesse o simulador aqui:** `https://tree-initiative.github.io/simolog-pd/`
 
 ---
 
